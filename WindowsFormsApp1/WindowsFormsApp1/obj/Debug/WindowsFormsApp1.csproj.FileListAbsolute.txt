@@ -1,0 +1,16 @@
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FireSharp.dll
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+Y:\projects\visualForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
